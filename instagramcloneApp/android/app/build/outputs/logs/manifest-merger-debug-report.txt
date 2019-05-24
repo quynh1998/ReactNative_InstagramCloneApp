@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-vector-icons] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-fetch-blob] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\962bec668fdaf1111335efc61ec8e9dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\4e48a778b20386b47a861c5fecdfe0fc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\69f705ace84b0f934cd7f17a4cf6d2b1\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\07b94eed8e175a9ceef49a8d13664cab\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\59c9b69da5dafe288abc85de8ccd666b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\513ff42117dee4365ca637abdae909fa\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6a26824071e7296cb81b176dcef1e32c\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\962865f103f5d3d5cc1c9a10772961cb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\816bf05c7dec6f307745b6e2f86e4735\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0cd29cc177daaf24d0180c5fe2a51121\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\5cacd1541d5055e611558d9539a1cee3\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.CAMERA
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:11:5-29:19
+MERGED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-fetch-blob] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\962bec668fdaf1111335efc61ec8e9dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\962bec668fdaf1111335efc61ec8e9dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\4e48a778b20386b47a861c5fecdfe0fc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\4e48a778b20386b47a861c5fecdfe0fc\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\513ff42117dee4365ca637abdae909fa\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\513ff42117dee4365ca637abdae909fa\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6a26824071e7296cb81b176dcef1e32c\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6a26824071e7296cb81b176dcef1e32c\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.instagramcloneapp.MainActivity
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:17:7-27:18
+	android:label
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:22:9-26:25
+action#android.intent.action.MAIN
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:24:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:25:13-77
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:25:21-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\3a7b3db3161ff71da301d84cd4e95177\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\962bec668fdaf1111335efc61ec8e9dd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\962bec668fdaf1111335efc61ec8e9dd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\4e48a778b20386b47a861c5fecdfe0fc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\4e48a778b20386b47a861c5fecdfe0fc\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\69f705ace84b0f934cd7f17a4cf6d2b1\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\69f705ace84b0f934cd7f17a4cf6d2b1\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\07b94eed8e175a9ceef49a8d13664cab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\07b94eed8e175a9ceef49a8d13664cab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\59c9b69da5dafe288abc85de8ccd666b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\59c9b69da5dafe288abc85de8ccd666b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\513ff42117dee4365ca637abdae909fa\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\513ff42117dee4365ca637abdae909fa\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\962865f103f5d3d5cc1c9a10772961cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\962865f103f5d3d5cc1c9a10772961cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\816bf05c7dec6f307745b6e2f86e4735\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\816bf05c7dec6f307745b6e2f86e4735\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0cd29cc177daaf24d0180c5fe2a51121\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0cd29cc177daaf24d0180c5fe2a51121\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\5cacd1541d5055e611558d9539a1cee3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Artic\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\5cacd1541d5055e611558d9539a1cee3\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] E:\ReactNative\InstaClone\instagramcloneApp\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\ReactNative\InstaClone\instagramcloneApp\android\app\src\main\AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
